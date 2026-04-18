@@ -1,6 +1,6 @@
 # Top 30% Active Restaurant Review Whales in San Jose-Sunnyvale-Santa Clara, CA Metro Area, US
 
-> Free BeamStation sample export with 10 rows and masked direct-contact fields.
+> Free BeamStation sample export with 121 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `650390` |
 | Location | San Jose-Sunnyvale-Santa Clara, CA |
 | Category | Restaurants |
-| Full dataset size | 847 records |
-| Free sample size | 10 records (1.18%) |
-| Last export | 2026-03-31T23:50:38.827270+00:00 |
+| Full dataset size | 1,215 records |
+| Free sample size | 121 records (9.96%) |
+| Last export | 2026-04-15T01:33:38.957596+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-30-active-restaurant-review-whales-in-san-jose-sunnyvale-santa-clara-ca-metro-sample-650390/releases/download/sample-latest/beamstation_650390_restaurants-us-sanjosesunnyvalesantaclaraca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
