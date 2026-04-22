@@ -1,12 +1,12 @@
 {
-  "export_job_id": "a1b4bac2-0f04-4073-a2ca-ae596d06bcdc",
+  "export_job_id": "59d28b4e-a504-4f3e-a795-782cebb0b980",
   "id_short": 650390,
-  "published_at": "2026-04-18T19:36:54Z",
+  "published_at": "2026-04-22T07:49:00Z",
   "repo_name": "top-30-active-restaurant-review-whales-in-san-jose-sunnyvale-santa-clara-ca-metro-sample-650390",
   "sample_asset_name": "beamstation_650390_restaurants-us-sanjosesunnyvalesantaclaraca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/650390/beamstation_650390_restaurants-us-sanjosesunnyvalesantaclaraca_SAMPLE_DIST.csv",
-  "sample_records": 121,
-  "sample_sha256": "78fb3fe750ac6ada6e8cde5b363257ebfbaa2b1dabc6258d676d50d3b369eb9c",
-  "sample_size_bytes": 488031,
-  "total_records": 1215
+  "sample_records": 61,
+  "sample_sha256": "b1e307ec347688c607a29ab7b4c6d1aa9800d78af09917b699a9d471b9a15de1",
+  "sample_size_bytes": 249674,
+  "total_records": 617
 }
